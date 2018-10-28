@@ -39,5 +39,5 @@ print inp
 #and get nothing but disappointment
 
 #we can also use standard type-casting functions to input other formats
-this_is_a_number=int(raw_input("Give me a number, nigga : "))
+this_is_a_number=int(raw_input("Give me a number, nigga, 100% nigga : "))
 print this_is_a_number
