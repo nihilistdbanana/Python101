@@ -3,7 +3,7 @@
 #strings are defined by a series of characters or symbols enclosed in single/double inverted commas
 
 #this here is a string being assigned to variable s
-s = 'hello'
+s = 'hello hello, is there anybody in there?'
 
 #characters in a string can be accesed like the elements of a list. See the list tutorial for more.
 print s[1]          ## the char at the index 1
