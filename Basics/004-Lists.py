@@ -1,7 +1,7 @@
 #In this one, we will discuss about strings in python
 #Strings are called lists because they are lists...
 #Since python variables dont exactly have an explicit datatype, the same list can hold various types of data.
-#for example:
+#for example - 
 l = [1 , 'hello' , 2.342, [42,' is the answer to the ultimate question of life, the universe and everything']]
 #yeah, there can be a list within a list.
 
