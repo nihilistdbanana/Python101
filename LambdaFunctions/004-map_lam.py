@@ -34,3 +34,4 @@ print "map(lambda x:x**3,arr) = ",map(lambda x:x**3,arr)
 
 #Again, the reduce and lambda is simple and consise. It's a, per se, more python-y approach.
 #try applyting this to more problems.
+#Fin.
